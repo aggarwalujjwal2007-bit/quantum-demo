@@ -1,2 +1,2 @@
 # quantum-demo
-this my github repository
+this is my github repository
